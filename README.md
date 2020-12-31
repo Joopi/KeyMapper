@@ -3,6 +3,7 @@ Maps key-to-key &amp; mouse interactions for statistical analysis and reproducti
 
 ## Usage ##
 Compile with **mvn clean compile assembly:single**
+
 Run process and press **End** key to finish the task.
 
 ## Purpose ##
