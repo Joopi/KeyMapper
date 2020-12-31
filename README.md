@@ -2,7 +2,8 @@
 Maps key-to-key &amp; mouse interactions for statistical analysis and reproduction
 
 ## Usage ##
-Simply run and press **End** key to finish the task.
+Compile with **mvn clean compile assembly:single**
+Run process and press **End** key to finish the task.
 
 ## Purpose ##
 Everyone types and clicks in different ways. This application records and stores different metrics of how we use input devices.
